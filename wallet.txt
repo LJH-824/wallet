@@ -1,4 +1,5 @@
 100 https://github.com/LJH-824 Coins
 +1  (from https://github.com/sfj416 for Resume Writing)
 _______
-101  https://github.com/LJH-824 Coins
+100  https://github.com/LJH-824 Coins
+1    https://github.com/sfj416 Coins
